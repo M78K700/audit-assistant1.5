@@ -1,5 +1,0 @@
-streamlit==1.44.1
-openai==1.73.0
-python-dotenv==1.0.1
-reportlab==4.1.0
-pandas==2.2.1 
